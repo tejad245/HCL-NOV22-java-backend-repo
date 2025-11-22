@@ -1,7 +1,7 @@
 # HCL-NOV22-java-backend-repo
 HCL NOV22 java backend repo , e-wallet application
 
-Technologies used : Java 8 , Exception handling , Springboot , Spring jpa 
+Technologies used : Java 8 , Global Exception handling , Springboot , Spring jpa 
 Value addons - > Spring Cache or redis , JWT , microservices architectures and services.
 Database Design
 1. CustomerDetails
