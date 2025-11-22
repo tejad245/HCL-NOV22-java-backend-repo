@@ -3,10 +3,10 @@ HCL NOV22 java backend repo , e-wallet application
 
 Database Design
 1. CustomerDetails
-    feilds  -> cust_id , cust_name , mail , phone , account_id(foreign key)
+    feilds  -> cust_id , cust_name , mail , phone ,
    
 2. AccountDetails
-    fields  -> account_id , amount , currency
+    fields  -> account_id , amount , currency  ,  cust_id(foreign key)
    
 3. Products
    fields  -> product_id , product_name , product_description cost , Quantity , merchant_id(foreign key)
